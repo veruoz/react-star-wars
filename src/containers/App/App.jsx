@@ -1,6 +1,8 @@
+
 import cn from 'classnames'
 import styles from './App.module.css';
-import PeoplePage from "../PeoplePage/PeoplePage";
+import PeoplePage from "@containers/PeoplePage";
+
 
 function App() {
   return (
@@ -8,7 +10,6 @@ function App() {
         {/*<h1 className={cn(styles.header, styles.text)}>Hi</h1>*/}
         {/*<h1 className={styles.header}>Hi</h1>*/}
         <PeoplePage/>
-
     </div>
   );
 }
