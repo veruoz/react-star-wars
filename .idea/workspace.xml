@@ -16,7 +16,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../React-query/starwars" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -66,7 +66,7 @@
       <workItem from="1652647366999" duration="594000" />
       <workItem from="1652711289865" duration="2489000" />
       <workItem from="1652723235591" duration="4382000" />
-      <workItem from="1652766527814" duration="5360000" />
+      <workItem from="1652766527814" duration="15936000" />
     </task>
     <servers />
   </component>
