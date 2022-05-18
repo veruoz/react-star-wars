@@ -1,0 +1,8 @@
+.buttons{
+    padding: 10px;
+    font-size: var(--font-size-subheader);
+}
+
+.link{
+    margin: 20px;
+}
