@@ -4,6 +4,7 @@ module.exports = function override(config, env) {
     //do stuff with the webpack config...
     alias({
         '@components': 'src/components',
+        '@ui': 'src/components/UI',
         '@containers': 'src/containers',
         '@constants': 'src/constants',
         '@hoc-helpers': 'src/hoc-helpers',

@@ -25,7 +25,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -68,7 +68,9 @@
       <workItem from="1652723235591" duration="4382000" />
       <workItem from="1652766527814" duration="16650000" />
       <workItem from="1652853710353" duration="1391000" />
-      <workItem from="1652894016080" duration="5866000" />
+      <workItem from="1652894016080" duration="6006000" />
+      <workItem from="1652936897815" duration="4526000" />
+      <workItem from="1652942690907" duration="1100000" />
     </task>
     <servers />
   </component>
