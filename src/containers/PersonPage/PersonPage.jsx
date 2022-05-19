@@ -5,6 +5,7 @@ import PropTypes from "prop-types";
 import {withErrorApi} from "@hoc-helpers/withErrorApi";
 import PersonInfo from "@components/PersonPage/PersonInfo";
 import PersonPhoto from "@components/PersonPage/PersonPhoto";
+import PersonLinkBack from "@components/PersonPage/PersonLinkBack";
 import {getPeopleImage} from "@services/getPeopleData";
 import {getApiResource} from "@utils/network";
 import {API_PERSON} from "@constants/api";
@@ -40,6 +41,8 @@ const PersonPage = ({ setErrorApi }) => {
     }, []);
 
     return (
+        <>
+            <PersonLinkBack/>
         <div className={styles.wrapper}>
             <span className={styles.person__name}>{personName}</span>
 
@@ -49,6 +52,7 @@ const PersonPage = ({ setErrorApi }) => {
                 {personInfo && <PersonInfo personInfo={personInfo}/>}
             </div>
         </div>
+        </>
     );
 }
 
