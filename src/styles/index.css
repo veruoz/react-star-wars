@@ -8,7 +8,9 @@
 
     --spacing-medium: 20px;
     --spacing-small: 10px;
+    --spacing-ultra-small: 5px;
     --spacing-large: 30px;
+
 
     --transition: .4s;
 
@@ -19,8 +21,10 @@
     --font-bold: 600;
 
     --width-max: 1200px;
+    --margin-list: 7px;
 
     --border-radius-small: 3px;
+    --border-radius-medium: 5px;
 
     --text-shadow-yellow:
     0 0 2px var(--color-white),

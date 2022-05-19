@@ -39,10 +39,9 @@ const PeoplePage = ({ setErrorApi }) => {
             setPrevPage(changeHTTP(res.previous))
             setNextPage(changeHTTP(res.next))
             setCounterPage(getPeoplePageId(url))
-            setErrorApi(false)
-        } else {
-            setErrorApi(true)
         }
+        setErrorApi(!res)
+
 
 
     }
