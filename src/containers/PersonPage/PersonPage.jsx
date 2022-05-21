@@ -12,21 +12,33 @@ import {getApiResource} from "@utils/network";
 import {API_PERSON} from "@constants/api";
 
 import styles from './PersonPage.module.css'
+import {useSelector} from "react-redux";
 
 // import PersonFilms from "@components/PersonPage/PersonFilms";
 const PersonFilms = React.lazy(() => import("@components/PersonPage/PersonFilms"))
 
 const PersonPage = ({ setErrorApi }) => {
+    const [personId, setPersonId] = useState(null);
     const [personInfo, setPersonInfo] = useState(null);
     const [personName, setPersonName] = useState(null);
     const [personPhoto, setPersonPhoto] = useState(null);
     const [personFilms, setPersonFilms] = useState(null);
+    const [personFavorite, setPersonFavorite] = useState(false);
+
+    const storeDate = useSelector(state => state.favoriteReducer)
 
     const { id } = useParams();
     useEffect(() => {
         (async () => {
             const res = await getApiResource(`${API_PERSON}/${id}/`)
             // console.log(`${API_PERSON}/${id}/`, res)
+
+            // storeDate[id] ? setPersonFavorite(true) : setPersonFavorite(false)
+            // короткий вариант написания условия:
+            setPersonFavorite(!!storeDate[id])
+
+            setPersonId(id)
+
             if (res) {
                 setPersonInfo([
                     { title: 'Height', data: res.height },
@@ -50,15 +62,21 @@ const PersonPage = ({ setErrorApi }) => {
     return (
         <>
             <PersonLinkBack/>
-            <UiLoading
-                theme="white"
-                isShadow
-            />
+            {/*<UiLoading*/}
+            {/*    theme="white"*/}
+            {/*    isShadow*/}
+            {/*/>*/}
         <div className={styles.wrapper}>
             <span className={styles.person__name}>{personName}</span>
 
             <div className={styles.container}>
-                <PersonPhoto personName={personName} personPhoto={personPhoto}/>
+                <PersonPhoto
+                    personName={personName}
+                    personPhoto={personPhoto}
+                    personId={personId}
+                    personFavorite={personFavorite}
+                    setPersonFavorite={setPersonFavorite}
+                />
 
                 {personInfo && <PersonInfo personInfo={personInfo}/>}
                 {personFilms && (

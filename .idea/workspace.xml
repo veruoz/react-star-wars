@@ -16,7 +16,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../React-query/starwars" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Favorite/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -29,6 +29,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Dev Pandaren\react-starwars\src\components\Favorite\img" />
+      <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Dev Pandaren\react-starwars\src\components\PersonPage\PersonPhoto\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Dev Pandaren\react-starwars\src\styles" />
       <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Dev Pandaren\react-starwars\src\containers" />
@@ -71,7 +75,10 @@
       <workItem from="1652894016080" duration="6006000" />
       <workItem from="1652936897815" duration="4526000" />
       <workItem from="1652942690907" duration="13689000" />
-      <workItem from="1652984357534" duration="4074000" />
+      <workItem from="1652984357534" duration="4615000" />
+      <workItem from="1653025134608" duration="12724000" />
+      <workItem from="1653073307217" duration="3392000" />
+      <workItem from="1653148061250" duration="4786000" />
     </task>
     <servers />
   </component>
