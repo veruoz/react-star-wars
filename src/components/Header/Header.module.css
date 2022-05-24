@@ -32,3 +32,11 @@
     border: 2px solid var(--color-violet);
     color: var(--color-violet);
 }
+
+.logo {
+    height: 50px;
+    width: 40px;
+    margin-right: var(--spacing-large);
+    object-fit: cover;
+    object-position: center center;
+}
