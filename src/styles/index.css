@@ -62,6 +62,9 @@ body {
     background-attachment: fixed;
 }
 
+*, *:after, *:before {
+    box-sizing: border-box;
+}
 img {
     display: block;
 }
