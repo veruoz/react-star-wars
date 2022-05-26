@@ -16,7 +16,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Favorite/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/UI/UiVideo/video" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -30,6 +30,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Dev Pandaren\react-starwars\src\components\UI\UiVideo\video" />
       <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Dev Pandaren\react-starwars\src\components\Favorite\img" />
       <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Dev Pandaren\react-starwars\src\components\PersonPage\PersonPhoto\img" />
     </key>
@@ -82,7 +83,8 @@
       <workItem from="1653328360360" duration="270000" />
       <workItem from="1653416655350" duration="3328000" />
       <workItem from="1653464379278" duration="833000" />
-      <workItem from="1653500068213" duration="6739000" />
+      <workItem from="1653500068213" duration="7710000" />
+      <workItem from="1653586566438" duration="4549000" />
     </task>
     <servers />
   </component>
