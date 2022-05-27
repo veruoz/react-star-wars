@@ -1,0 +1,40 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"61c5c6ca-21cd-429c-9b61-06fc82116f2c\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"29784PrGjNKlKXzLdqiCd9XeTi7\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/src/components/UI/UiVideo/video\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Project\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.pluginManager\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Mikhail Guryanov\\Desktop\\templates\\coding\\Dev Pandaren\\react-starwars\\src\\components\\UI\\UiVideo\\video\" />\r\n      <recent name=\"C:\\Users\\Mikhail Guryanov\\Desktop\\templates\\coding\\Dev Pandaren\\react-starwars\\src\\components\\Favorite\\img\" />\r\n      <recent name=\"C:\\Users\\Mikhail Guryanov\\Desktop\\templates\\coding\\Dev Pandaren\\react-starwars\\src\\components\\PersonPage\\PersonPhoto\\img\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Mikhail Guryanov\\Desktop\\templates\\coding\\Dev Pandaren\\react-starwars\" />\r\n      <recent name=\"C:\\Users\\Mikhail Guryanov\\Desktop\\templates\\coding\\Dev Pandaren\\react-starwars\\src\\styles\" />\r\n      <recent name=\"C:\\Users\\Mikhail Guryanov\\Desktop\\templates\\coding\\Dev Pandaren\\react-starwars\\src\\containers\" />\r\n      <recent name=\"C:\\Users\\Mikhail Guryanov\\Desktop\\templates\\coding\\Dev Pandaren\\react-starwars\\src\\components\" />\r\n      <recent name=\"C:\\Users\\Mikhail Guryanov\\Desktop\\templates\\coding\\Dev Pandaren\\react-starwars\\src\\App\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"&lt;template&gt;\" type=\"JUnit\" default=\"true\" selected=\"false\">\r\n      <option name=\"MAIN_CLASS_NAME\" />\r\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\r\n      <option name=\"PARAMETERS\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$MODULE_DIR$\" />\r\n    </configuration>\r\n    <configuration name=\"&lt;template&gt;\" type=\"TestNG\" default=\"true\" selected=\"false\">\r\n      <option name=\"MAIN_CLASS_NAME\" />\r\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\r\n      <option name=\"PARAMETERS\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n    </configuration>\r\n    <configuration name=\"&lt;template&gt;\" type=\"#org.jetbrains.idea.devkit.run.PluginConfigurationType\" default=\"true\" selected=\"false\">\r\n      <option name=\"VM_PARAMETERS\" value=\"-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"61c5c6ca-21cd-429c-9b61-06fc82116f2c\" name=\"Changes\" comment=\"\" />\r\n      <created>1652452572228</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1652452572228</updated>\r\n      <workItem from=\"1652452574812\" duration=\"10932000\" />\r\n      <workItem from=\"1652556343849\" duration=\"507000\" />\r\n      <workItem from=\"1652647366999\" duration=\"594000\" />\r\n      <workItem from=\"1652711289865\" duration=\"2489000\" />\r\n      <workItem from=\"1652723235591\" duration=\"4382000\" />\r\n      <workItem from=\"1652766527814\" duration=\"16650000\" />\r\n      <workItem from=\"1652853710353\" duration=\"1391000\" />\r\n      <workItem from=\"1652894016080\" duration=\"6006000\" />\r\n      <workItem from=\"1652936897815\" duration=\"4526000\" />\r\n      <workItem from=\"1652942690907\" duration=\"13689000\" />\r\n      <workItem from=\"1652984357534\" duration=\"4615000\" />\r\n      <workItem from=\"1653025134608\" duration=\"12724000\" />\r\n      <workItem from=\"1653073307217\" duration=\"3392000\" />\r\n      <workItem from=\"1653148061250\" duration=\"11669000\" />\r\n      <workItem from=\"1653328360360\" duration=\"270000\" />\r\n      <workItem from=\"1653416655350\" duration=\"3328000\" />\r\n      <workItem from=\"1653464379278\" duration=\"833000\" />\r\n      <workItem from=\"1653500068213\" duration=\"7710000\" />\r\n      <workItem from=\"1653586566438\" duration=\"5502000\" />\r\n      <workItem from=\"1653625022879\" duration=\"2051000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -101,6 +101,29 @@
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="gh-pages" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
+     <select />
