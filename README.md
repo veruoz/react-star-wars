@@ -1,4 +1,7 @@
 # 🪐 Star Wars Application
+- `Repository` https://github.com/veruoz/react-star-wars
+- `Project` https://veruoz.github.io/react-star-wars
+- `Storybook` https://veruoz.github.io/react-star-wars/storybook  
 
 ## 🦄 API
 - https://swapi.dev (основное API)
