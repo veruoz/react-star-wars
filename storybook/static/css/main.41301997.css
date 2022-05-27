@@ -1,0 +1,115 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+    --color-grey: #9c9c9c;
+    --color-blue: #6a83fb;
+    --color-lightgrey: #dfe2df;
+
+    --font-size-small: 14px;
+    --font-size-medium: 16px;
+    --font-family-main: sans-serif;
+    --font-bold: 600;
+
+    --transition: .4s;
+}
+
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+img {
+    display: block;
+}
+
+.UiButton_button__J\+gWg {
+    min-width: 100px;
+    padding: 10px;
+    border-radius: 3px;
+    font-family: var(--font-family-main);
+    font-size: var(--font-size-small);
+    font-weight: var(--font-bold);
+    background: none;
+    outline: none;
+    transition: var(--transition);
+    cursor: pointer;
+}
+.UiButton_button__J\+gWg:disabled,
+.UiButton_button__J\+gWg:disabled:hover {
+    color: var(--color-grey);
+    border-color: var(--color-grey);
+    cursor: default;
+    background-color: transparent;
+}
+
+
+.UiButton_dark__Tx1xg {
+    border: 1px solid var(--color-white);
+    color: var(--color-white);
+}
+.UiButton_dark__Tx1xg:hover {
+    background-color: var(--color-white);
+    color: var(--color-black);
+}
+.UiButton_light__g65LB {
+    border: 1px solid var(--color-black);
+    color: var(--color-black);
+}
+.UiButton_light__g65LB:hover {
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+
+.UiInput_wrapper__input__ne7lE{
+    --border-radius: 3px;
+    --border: 3px;
+    --clear-width: 20px;
+}
+.UiInput_wrapper__input__ne7lE{
+    position: relative;
+    display: inline-flex;
+}
+.UiInput_input__lhuKd {
+    min-width: 300px;
+    padding: 10px 15px;
+    padding-right: calc(var(--clear-width) + 15px);
+    border: var(--border-radius) solid var(--color-lightgrey);
+    border-radius: var(--border-radius);
+    font-size: var(--font-size-medium);
+    font-family: var(--font-family-main);
+    outline: none;
+}
+
+.UiInput_input__lhuKd:focus {
+    border: var(--border-radius) solid var(--color-blue);
+}
+
+.UiInput_clear__nAZMo{
+    position: absolute;
+    top: 4px;
+    right: 10px;
+    width: var(--clear-width);
+    height: calc(100% - var(--border)*2);
+    object-fit: contain;
+    object-position: center center;
+    cursor: pointer;
+    transition: .5s;
+    opacity: .4;
+}
+.UiInput_clear__disabled__egZ\+5 {
+    opacity: .2;
+}
+
+.UiLoading_loader__x3tkD{
+    width: 80px;
+    height: 80px;
+}
+
+.UiLoading_shadow__Nz6wb{
+    -webkit-filter: drop-shadow(0 0 2px #000);
+            filter: drop-shadow(0 0 2px #000);
+}
+
+.UiVideo_video__\+sHzE {
+}
+
+
+/*# sourceMappingURL=main.41301997.css.map*/
