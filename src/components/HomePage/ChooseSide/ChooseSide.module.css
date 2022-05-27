@@ -71,3 +71,13 @@
 .item__neutral:hover {
     box-shadow: 0 0 7px 2px var(--color-shadow-neutral);
 }
+
+@media screen and (max-width: 880px) {
+    .container {
+        justify-content: center;
+    }
+
+    .item {
+        margin: var(--spacing-large);
+    }
+}

@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    justify-content: center;
 }
 
 .list__item{
@@ -27,3 +28,5 @@
     object-position: top center;
     border-radius: var(--border-radius-small) var(--border-radius-small) 0 0;
 }
+
+

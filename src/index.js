@@ -6,6 +6,7 @@ import {Provider} from "react-redux";
 import App from '@containers/App';
 import store from "@store/store";
 import ThemeProvider from "@context/ThemeProvider";
+import {REPO_NAME} from "@constants/repo";
 
 import '@styles/index.css';
 
@@ -14,7 +15,7 @@ root.render(
     <React.StrictMode>
         <Provider store={store}>
             <ThemeProvider>
-                <Router>
+                <Router basename={`/${REPO_NAME}/`}>
                     <App/>
                 </Router>
             </ThemeProvider>

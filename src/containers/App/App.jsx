@@ -1,5 +1,4 @@
 import {Route, Routes} from "react-router-dom";
-import cn from 'classnames'
 
 import routesConfig from "@routes/routesConfig";
 import Header from "@components/Header";

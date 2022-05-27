@@ -19,3 +19,14 @@
     border-radius: var(--border-radius-medium);
     box-shadow: var(--text-shadow-blue);
 }
+
+@media screen and (max-width: 620px) {
+    .video {
+        width: 75vw;
+    }
+
+    .text {
+        width: 75vw;
+        font-size: 4vw;
+    }
+    }
